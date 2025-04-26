@@ -6,7 +6,7 @@
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/tomnunes/teste-mb
 cd mb-teste
 ```
 
@@ -16,14 +16,12 @@ cd mb-teste
 ```bash
 cd backend
 cp .env.example .env
-# Edite o arquivo .env com suas configurações
 ```
 
 #### Frontend
 ```bash
 cd ../frontend
 cp .env.example .env
-# Edite o arquivo .env com suas configurações
 ```
 
 ### 3. Instalar dependências
