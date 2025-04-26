@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/api.js",
+    "dev": "nodemon -r dotenv/config src/api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "4.18.2",
+    "path": "^0.12.7",
+    "path-to-regexp": "6.2.1"
+  },
+  "description": "",
+  "resolutions": {
+    "path-to-regexp": "6.2.1"
+  }
+}
