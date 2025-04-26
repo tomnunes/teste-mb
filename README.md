@@ -44,14 +44,12 @@ npm install
 ```bash
 cd backend
 npm start
-# Servidor rodando
 ```
 
 ### Frontend (Vue.js)
 ```bash
 cd ../frontend
 npm run dev
-# Aplicação disponível em http://localhost:5173
 ```
 
 ## Configuração
