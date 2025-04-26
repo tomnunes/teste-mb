@@ -7,7 +7,7 @@
 ### 1. Clonar o repositório
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+cd mb-teste
 ```
 
 ### 2. Configurar variáveis de ambiente
