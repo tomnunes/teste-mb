@@ -14,7 +14,7 @@ cd teste-mb
 
 #### Backend
 ```bash
-cd backend
+cd ../backend
 cp .env.example .env
 ```
 
